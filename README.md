@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kirtana ===============================================================================================================================  An aspiring software engineer -----------------------------  I am a full stack developer and also enthusiastic to learn more about machine learning and data science on a long go.  * 🌍  I'm based in India * ✉️  You can contact me at [kirtana.k202@gmail.com](mailto:kirtana.k202@gmail.com) * 🧠  I'm learning Machine learning, Data Science, React, JS * 🤝  I'm open to collaborating on Interesting projects * ⚡  I'm a quite interactive and active person
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kirtana ========================================
+An aspiring software engineer
+I am a full stack developer and also enthusiastic to learn more about machine learning and data science on a long go. 
+* 🌍  I'm based in India
+* ✉️  You can contact me at [kirtana.k202@gmail.com](mailto:kirtana.k202@gmail.com)
+* 🧠  I'm learning Machine learning, Data Science, React, JS
+* 🤝  I'm open to collaborating on Interesting projects
+* ⚡  I'm a quite interactive and active person
 
 ### Skills  
 
